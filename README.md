@@ -13,6 +13,6 @@
 </head>
 
 <body>
-  <script src="js/scripts.js"></script>
+  The HTML5 Herald
 </body>
 </html>
